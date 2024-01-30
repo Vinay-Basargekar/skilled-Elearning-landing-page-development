@@ -181,14 +181,16 @@ footer {
 	}
 	.main-attract {
 		display: flex;
-		padding-left: 1rem;
+		justify-content: center;
+		align-content: center;
+		padding-left: 2rem;
 		margin-top: 2rem;
-		gap: 10px;
+		gap: 20px;
 		flex-direction: column;
 	}
 	.title-heading {
-		font-size: 30px;
-		width: 80%;
+		font-size: 40px;
+		width: 100%;
 	}
 	.intro-card {
 		width: 17rem;
@@ -224,7 +226,6 @@ footer {
     footer img {
         width: 4rem;
         height: auto;
-		
         padding-left: 2rem; 
     }
 
