@@ -218,19 +218,19 @@ footer {
 	footer {
         height: 50px;
         width: 100%;
-        padding: 2rem 1rem; /* Adjusted padding for better responsiveness */
+        padding: 2rem 1rem;
     }
 
     footer img {
         width: 4rem;
         height: auto;
-		/* margin-right: 2rem; */
-        padding-left: 2rem; /* Adjusted padding for better responsiveness */
+		
+        padding-left: 2rem; 
     }
 
     footer a {
         width: 6rem;
         height: auto;
-        margin-right: 0.5rem; /* Adjusted margin for better responsiveness */
+        margin-right: 2rem; 
     }
 }
