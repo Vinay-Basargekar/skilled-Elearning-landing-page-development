@@ -4,6 +4,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background: linear-gradient(180deg, #ffffff 0%, #f0f1ff 100%);
+  overflow-x: hidden;
 }
 
 header {
